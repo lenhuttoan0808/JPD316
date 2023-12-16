@@ -1,0 +1,14 @@
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\bin\Debug\net6.0\Demo_Lambda.exe
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\bin\Debug\net6.0\Demo_Lambda.deps.json
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\bin\Debug\net6.0\Demo_Lambda.runtimeconfig.json
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\bin\Debug\net6.0\Demo_Lambda.dll
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\bin\Debug\net6.0\Demo_Lambda.pdb
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.AssemblyInfoInputs.cache
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.AssemblyInfo.cs
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.csproj.CoreCompileInputs.cache
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.dll
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\refint\Demo_Lambda.dll
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.pdb
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\Demo_Lambda.genruntimeconfig.cache
+E:\Hc\PRN211\Demo_Lambda\Demo_Lambda\obj\Debug\net6.0\ref\Demo_Lambda.dll
